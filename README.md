@@ -2,14 +2,6 @@
 
 Este repositorio contiene el trabajo realizado para la competencia de **Spaceship Titanic** en Kaggle. El objetivo es predecir si los pasajeros fueron **transportados a otra dimensión** usando un conjunto de datos de características de los pasajeros, como su edad, gastos a bordo, destino y otras variables. Se han utilizado diferentes modelos de aprendizaje automático para abordar este problema de clasificación, y finalmente se ha optimizado un modelo de **Gradient Boosting** con los mejores hiperparámetros encontrados.
 
-## 📄 Tabla de contenidos
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Modelos Utilizados](#modelos-utilizados)
-3. [Evaluación](#evaluación)
-4. [Predicciones Finales](#predicciones-finales)
-5. [Contribuciones](#contribuciones)
-6. [Licencia](#licencia)
-
 ## 📚 Descripción del Proyecto
 Este proyecto busca predecir si los pasajeros a bordo del **Spaceship Titanic** fueron transportados a otra dimensión. Para lograrlo, hemos procesado y analizado un conjunto de datos que contiene información sobre los pasajeros y su experiencia en el viaje. Los principales pasos incluyen:
 
