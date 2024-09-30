@@ -29,12 +29,8 @@ El modelo fue evaluado usando **5-Fold Cross-Validation** y las siguientes métr
 - **Curva ROC**: El área bajo la curva (AUC) fue **0.8935**, indicando un buen rendimiento general.
 - **Matriz de Confusión**: Proporciona una visión clara de las predicciones correctas e incorrectas para las clases de "transportado" y "no transportado".
 
-![Curva ROC](ruta/a/imagen_roc.png)  
-![Importancia de Características](ruta/a/imagen_importancia.png)  
-![Matriz de Confusión](ruta/a/imagen_confusion.png)
-
 ## 📈 Predicciones Finales
 Las predicciones finales para los pasajeros del conjunto de test se generaron utilizando el modelo **Gradient Boosting** optimizado.
 
 ## 📄 Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. 
